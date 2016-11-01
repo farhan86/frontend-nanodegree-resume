@@ -62,5 +62,15 @@ var work = {
 }
 
 var projects = {
-
+    "projects": [
+        {
+            "title": "Sample Project 1",
+            "dates": "2014",
+            "description": "abdul kuddus boyati hello hi how are you are you dump are you so stupid hello hey sweet sweet pie pour in the cup and eat it all up.",
+            "images":[
+                "HERE WAS SUPPOSE TO BE A PIC",
+                "HERE WAS ALSO SUPPOSE TO BE A PIC"
+            ]
+        }
+    ]
 }
