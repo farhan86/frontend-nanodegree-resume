@@ -74,3 +74,11 @@ var projects = {
         }
     ]
 }
+
+var formattedHeaderName = HTMLheaderName.replace("%data", bio.name);
+
+if(bio.skills.length > 0)
+    {
+        $("#header").append(HTMLskillsStart);
+        
+    }
